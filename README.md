@@ -1,7 +1,8 @@
 # WaterSourceSite 
 **Data Analysis (Team) Project**  
-Analyze and visualize large amounts of data & Select a water source site through various analysis results.    
 *2021 summer project* 
-- language: R 
-- team (4) 
+Analyze and visualize large amounts of data & Select a water source site through various analysis results.    
 Goal: Learning R deeper   
+- language: R 
+- team (4)
+
